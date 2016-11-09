@@ -1,0 +1,16 @@
+{
+  "name": "webpackbin-project",
+  "version": "1.0.0",
+  "description": "Project boilerplate",
+  "scripts": {
+    "start": "webpack-dev-server --content-base build/"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "html-webpack-plugin": "1.6.1",
+    "webpack-dev-server": "1.14.1",
+    "webpack": "1.12.13"
+  },
+  "author": "WebpackBin",
+  "license": "ISC"
+}
